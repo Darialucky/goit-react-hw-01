@@ -37,4 +37,4 @@ Profile.propTypes = {
   }).isRequired,
 };
 
-export default Profile; // Експортуємо компонент з правильним іменем
+export default Profile;
